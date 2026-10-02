@@ -281,6 +281,16 @@ TextSummarizer/
 └── README.md              # Project documentation
 ```
 
+---
+
+## 👩‍💻 Author
+
+**Raja Aifa**
+
+Master's Degree in Web Service and Multimedia
+
+---
+
 ## 📄 License
 
 This project is intended for educational and research purposes.

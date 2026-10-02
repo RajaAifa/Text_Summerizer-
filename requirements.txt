@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+nltk
+wordcloud
+matplotlib
+numpy
+rouge
+pandas
+txtai
+bcrypt
+PyPDF2
